@@ -1,0 +1,28 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.signin-form{
+	padding-top: 80px;
+}
+
+.signin-form h3{
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.nav-bar{
+	background: #f8f9fa;
+}
+
+footer{
+	padding: 60px 0;
+}
+
+.div-table{
+	padding: 50px 0;
+}
+
+.add_category_form{
+	padding: 80px 0;
+}
